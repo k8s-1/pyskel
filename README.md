@@ -8,6 +8,7 @@
 python -m venv venv
 source venv/bin/activate
 python -m pip install .
+python -m python_skeleton
 ```
 
 ## Run tests
