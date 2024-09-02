@@ -5,6 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 dynamic = ["version"]
 name = "pyskel"
+
 dependencies = [
   'requests',
 ]
@@ -18,6 +19,15 @@ authors = [
 description = "Python skeleton quickstarter for modern python projects."
 
 license = {file = "LICENSE"}
+
+
+[project.optional-dependencies]
+dev = [
+    "ruff~=0.6.3",
+    "tox~=4.18.0",
+    "pytest~=8.3.2",
+]
+
 
 [tool.ruff]
 include = ["pyproject.toml", "pyskel/**/*.py", "scripts/**/*.py"]
