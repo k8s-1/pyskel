@@ -52,5 +52,5 @@ tox
 ## Lint
 ```
 pip install ruff
-ruff check . --fix
+ruff check --fix
 ```
