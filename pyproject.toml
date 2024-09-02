@@ -16,5 +16,3 @@ authors = [
 description = "Quickstarter for modern python projects."
 
 license = {file = "LICENSE"}
-
-python-skeleton = "python_skeleton" # run python-skeleton as command after installing
