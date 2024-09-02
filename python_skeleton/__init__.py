@@ -1,2 +1,2 @@
 def main():
-    print("Example python project with setuptools")
+    print("This command will be run if package is installed as command")
