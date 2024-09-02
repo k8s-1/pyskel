@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 dynamic = ["version"]
-name = "python-skeleton"
+name = "python_skeleton"
 dependencies = []
 
 requires-python = ">= 3.12"
@@ -16,6 +16,3 @@ authors = [
 description = "Quickstarter for modern python projects."
 
 license = {file = "LICENSE"}
-
-[project.scripts]
-python-skeleton = "python_skeleton:main" # run python-skeleton after installing
