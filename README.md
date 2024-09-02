@@ -43,7 +43,7 @@ python -m pyskel
 
 ## 🧪 Run tests
 ```
-pip install tox pytest
+pip install -e .[dev]
 tox
 ```
 
@@ -51,6 +51,6 @@ tox
 
 ## Lint
 ```
-pip install ruff
+pip install -e .[dev]
 ruff check --fix
 ```
