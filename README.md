@@ -1,8 +1,4 @@
-<p align="center">
-  <h1>🚀 Python Skeleton</h1>
-</p>
-
-<br></br>
+<h1>Python Skeleton</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white" alt="Python Version"/>
