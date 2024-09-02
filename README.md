@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white" alt="Python Version"/>
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions Welcome"/>
+  <img src="https://img.shields.io/badge/license-GPL%203.0-red" alt="GPL 3.0 License"/>
 </p>
 
 <br></br>
