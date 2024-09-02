@@ -1,8 +1,4 @@
-# Python Skeleton
-<p align="center">
-  <img src="https://raw.githubusercontent.com/python/python-docs-theme/main/images/python-logo.png" alt="Python Logo" width="200"/>
-  <h1>🚀 Python Skeleton</h1>
-</p>
+<h1 algin="center">🚀 Python Skeleton</h1>
 
 Welcome to **Python Skeleton** – a modern Python project starter template designed to streamline your development process. This template provides a solid foundation for new Python projects, ensuring you get up and running quickly.
 
