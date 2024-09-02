@@ -1,5 +1,6 @@
 from pyskel.api.request import simple_get
 
+
 def test_simple_get():
     # Given
     url = 'https://jsonplaceholder.typicode.com/todos/3'
@@ -8,4 +9,5 @@ def test_simple_get():
     response = simple_get(url)
 
     # Then
-    assert response.status_code == 200, f"Failed with response: {response.text}"
+    assert response.status_code == 200, \
+        f"Failed with response: {response.text}"
