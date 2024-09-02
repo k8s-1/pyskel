@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Python Skeleton</h1>
+  <h1>🚀 Python Skeleton</h1>
 </p>
 
 <br></br>
