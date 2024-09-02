@@ -6,7 +6,7 @@ print("Running main.py...")
 
 def main():
     print("Hello from main")
-    # bar()
+    bar.bar()
 
 
 if __name__ == '__main__':
