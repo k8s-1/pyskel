@@ -18,4 +18,4 @@ description = "Quickstarter for modern python projects."
 license = {file = "LICENSE"}
 
 [project.scripts]
-python_skeleton_cli = "python_skeleton:main"
+python-skeleton = "python_skeleton:main" # run python-skeleton after installing
