@@ -4,6 +4,7 @@ Welcome to **Python Skeleton** – a modern Python project starter template desi
 
 - Quickstart project for modern python projects
 - Code folder name should match the project title e.g. 'pyskel'
+- Teach beginner pythoneers how to structure projects
 
 ## Structure
 ```
