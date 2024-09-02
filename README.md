@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/python/python-docs-theme/main/images/python-logo.png" alt="Python Logo" width="200"/>
   <h1>🚀 Python Skeleton</h1>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3.9-blue?logo=python&logoColor=white" alt="Python Version"/>
+  <img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white" alt="Python Version"/>
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions Welcome"/>
 </p>
 
