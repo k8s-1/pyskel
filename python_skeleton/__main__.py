@@ -1,4 +1,4 @@
-print("running main.py...")
+print("Running main.py...")
 
 from .foo import foo
 from .bar import bar
