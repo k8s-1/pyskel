@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 dynamic = ["version"]
-name = "python_skeleton"
+name = "pyskel"
 dependencies = [
   'requests',
 ]
@@ -15,6 +15,6 @@ authors = [
   {name = "John Doe", email = "john.doe@example.com"},
 ]
 
-description = "Quickstarter for modern python projects."
+description = "Python skeleton quickstarter for modern python projects."
 
 license = {file = "LICENSE"}
