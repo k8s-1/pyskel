@@ -2,16 +2,22 @@
   <h1>🚀 Python Skeleton</h1>
 </p>
 
+<br></br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white" alt="Python Version"/>
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions Welcome"/>
 </p>
+
+<br></br>
 
 Welcome to **Python Skeleton** – a modern Python project starter template designed to streamline your development process. This template provides a solid foundation for new Python projects, ensuring you get up and running quickly.
 
 - Quickstart project for modern python projects
 - Code folder name should match the project title e.g. 'pyskel'
 - Teach beginner pythoneers how to structure projects
+
+---
 
 ## Structure
 ```
@@ -28,6 +34,7 @@ Welcome to **Python Skeleton** – a modern Python project starter template desi
 ├── tox.ini
 ```
 
+---
 
 ## 🏗️ Install
 ```
@@ -36,6 +43,8 @@ source venv/bin/activate
 python -m pip install .
 python -m pyskel
 ```
+
+---
 
 ## 🧪 Run tests
 ```
