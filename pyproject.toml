@@ -21,7 +21,7 @@ description = "Python skeleton quickstarter for modern python projects."
 license = {file = "LICENSE"}
 
 [project.scripts]
-coolprojectcli = "pyskel.main:main"
+pyskel = "pyskel.__main__:main"
 
 [project.optional-dependencies]
 dev = [
