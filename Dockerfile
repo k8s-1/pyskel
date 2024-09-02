@@ -14,6 +14,5 @@ RUN /venv/bin/pip install .
 # Copy the virtualenv into a distroless image
 # * These are small images that only contain the runtime dependencies
 FROM gcr.io/distroless/python3-debian11
-WORKDIR /app
 COPY --from=build-app /venv /venv
 ENTRYPOINT ["/venv/bin/pyskel"]
