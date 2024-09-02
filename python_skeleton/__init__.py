@@ -1,1 +1,1 @@
-print("running entrypoint to script in pyproject.toml..."
+print("running entrypoint to script in pyproject.toml...")
