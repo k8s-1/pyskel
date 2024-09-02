@@ -1,7 +1,7 @@
 print("Running main.py...")
 
-from python_skeleton.foo import foo
-from python_skeleton.bar import bar
+from pyskel.foo import foo
+from pyskel.bar import bar
 
 def main():
     print("Hello from main")

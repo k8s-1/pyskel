@@ -13,5 +13,6 @@ python -m python_skeleton
 
 ## Run tests
 ```
+pip install tox pytest
 tox
 ```
