@@ -1,5 +1,7 @@
-from python-skeleton.foo import foo
+from foo import foo
 
-from python-skeleton.bar import bar
+from bar import bar
 
 print("Hello from main")
+
+bar.bar()
