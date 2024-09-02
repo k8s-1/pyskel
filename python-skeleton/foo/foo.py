@@ -1,1 +1,1 @@
-print("Hello from one")
+print("Hello from foo")
