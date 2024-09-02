@@ -1,5 +1,5 @@
 <p align="center">
-  # 🚀 Python Skeleton
+  # 🐍 Python Skeleton 💀
 </p>
 
 <br></br>
