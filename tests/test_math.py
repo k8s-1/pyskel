@@ -1,4 +1,4 @@
-from python_skeleton.math.sum import add
+from pyskel.math.sum import add
 
 def test_add_positive_numbers():
     # Given
