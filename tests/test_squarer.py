@@ -1,4 +1,4 @@
-from squarer import square
+from python_skeleton.squarer.squarer import square
 
 def test_square():
     # When
