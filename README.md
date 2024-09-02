@@ -46,3 +46,10 @@ python -m pyskel
 pip install tox pytest
 tox
 ```
+
+---
+## Lint
+```
+pip install ruff
+ruff check . --fix
+```
