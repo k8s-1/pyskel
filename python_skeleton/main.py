@@ -1,7 +1,6 @@
 from foo import foo
-
 from bar import bar
 
-print("Hello from main")
-
-bar.bar()
+if __name__ == '__main__':
+    print("Hello from main")
+    bar.bar()
