@@ -5,4 +5,4 @@ def test_simple_get():
     response = simple_get()
 
     # Then
-    assert response.status_code == 200
+    assert response.status_code == 200, f"Failed with response: {response.text}"
