@@ -1,4 +1,3 @@
-from pyskel.foo import foo
 from pyskel.bar import bar
 
 print("Running main.py...")
