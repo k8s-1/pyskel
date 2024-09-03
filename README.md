@@ -15,7 +15,15 @@ Welcome to **Python Skeleton** – a modern Python project starter template desi
 - Teach how to structure projects
 - Multi-stage Dockerfile for fast builds
 
+---
+
+## Related documentation
 https://packaging.python.org/en/latest/tutorials/packaging-projects/
+
+---
+
+## Disclaimer
+**pyskel** is not looking to be an end-all solution to the "perfect" project setup, there is no such thing. It merely seeks to give an idea on how to setup a new project in an organized and modern way. There are countless linters, formatters, and build backends not shown in this setup.
 
 ---
 
